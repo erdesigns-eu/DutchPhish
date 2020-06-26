@@ -17,3 +17,5 @@ De pagina's zijn verdeeld per categorie, en sommige pagina's hebben nog een extr
 Ik ga er vanuit dat als je deze kit download dat je weet hoe deze werkt, dus geen contact opnemen als je niet begrijpt hoe het werkt.<br><b>Deze kit is gemaakt en getest op Parrot Security OS.</b>
 
 Als je deze kit gebruikt, delen ervan gebruikt of aanpassingen doet zou het fijn zijn als je ons op de hoogte wilt stellen. Als je nieuwe ideeen hebt of verbeteringen, zijn ook altijd welkom.
+
+<b>De Paypal pagina heeft een extra OTP veld</b>
