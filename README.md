@@ -18,4 +18,5 @@ Ik ga er vanuit dat als je deze kit download dat je weet hoe deze werkt, dus gee
 
 Als je deze kit gebruikt, delen ervan gebruikt of aanpassingen doet zou het fijn zijn als je ons op de hoogte wilt stellen. Als je nieuwe ideeen hebt of verbeteringen, zijn ook altijd welkom.
 
-<b>De Paypal pagina heeft een extra OTP veld</b>
+<b>- De Paypal pagina heeft een extra OTP veld.</b><br>
+<b>- Deze kit heeft alleen Nederlandstalige paginas!</b>
